@@ -11,13 +11,13 @@ layout: default-de
 <div>
    <img src="../assets/home/intro1.png" alt="" />
    <h1>Delta Chat</h1>
-   <p>Der Messenger mit der <b>größten Reichweite</b> der Welt.<br><b>Kostenlos</b> und <b>sicher</b>.</p>
+   <p>Der datenschutzfreundliche mesenger</p>
 </div>
 
 <div>
    <img src="../assets/home/intro2.png" alt="" />
    <h1>Unabhängig</h1>
-   <p><b>Keine Abhängigkeiten</b> von fremden Diensten und Servern. Die App verwendet nur Ihren E-Mail-Server.</p>
+   <p><Keine server -- die App verwendet nur Ihren E-Mail-Server.</p>
 </div>
 
 <div>
